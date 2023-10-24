@@ -13,7 +13,7 @@
   },
   "dependencies": {
     "allotment": "^1.12.1",
-    "next": "^12.1.5",
+    "next": "^13.5.0",
     "next-transpile-modules": "^9.0.0",
     "parse-json": "^6.0.2",
     "react": "^18.0.0",
